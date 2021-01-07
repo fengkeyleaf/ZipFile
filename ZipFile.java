@@ -1,5 +1,3 @@
-package myLibraries.util.zip;
-
 /*
  * ZipFile.java
  *
@@ -59,7 +57,7 @@ public final class ZipFile implements Runnable {
         this.removedPath = removedPath;
     }
 	
-	/**
+    /**
      * constructor to create an instance of ZipFile to do zipping with command line arguments support
      */
 
